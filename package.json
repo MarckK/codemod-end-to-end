@@ -1,0 +1,24 @@
+{
+  "name": "codemod-end-to-end",
+  "version": "1.0.0",
+  "description": "Repo for end to end testing for our codemods",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarckK/codemod-end-to-end.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarckK/codemod-end-to-end/issues"
+  },
+  "homepage": "https://github.com/MarckK/codemod-end-to-end#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es6ify": "file:///Users/karadeyoungdelamarck/Documents/babel/packages/babel-preset-es6ify",
+    "mocha": "^3.4.2"
+  }
+}
